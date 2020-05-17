@@ -4,7 +4,7 @@
 
 ![Ux-ui-fe1](https://github.com/raazeved/ux-ui-front-end/blob/master/MovingFast.jpeg)
 
-## Why we are discuss about Customer Experience in UX - UI - FE for Product or Project phases ?
+## Why we are discuss about Customer Experience in UX - UI - FE  whithin Products or Project phases ?
 Everthing starting thru ideas, with a wish to advance and changing the way of thinking, doing, giving back something or just improving the results, need to thinking what the best experience we would delivering within those ideas? I always think in simples matters.
 
 ![Ux-ui-fe2](https://github.com/raazeved/ux-ui-front-end/blob/master/expectations.jpeg)
@@ -35,10 +35,10 @@ Further more info:https://uxmastery.com/resources/techniques/
 ![Ux-ui-fe6](https://github.com/raazeved/ux-ui-front-end/blob/master/Diferences_Between_UX_UI.jpeg)
 Further more info: https://uxdesign.cc/why-ux-and-ui-should-remain-separate-7d6e3addb46f
 
-# Deliverables
+# Deliverables 
 
-For products or services 
+## Improving Customer Experience (CX) thru Products or Services 
 ![Ux-ui-fe2](https://github.com/raazeved/ux-ui-front-end/blob/master/TheDesignApplied_onUX_vs_UI.jpeg)
 
-For Software development process 
+## Delivering Customer Experience (CX) by applying the Software or Process improvements 
 ![Ux-ui-fe2](https://github.com/raazeved/ux-ui-front-end/blob/master/prototypes.jpeg)
