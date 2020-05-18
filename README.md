@@ -24,10 +24,11 @@ Further more info: https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-
 
 ## Design Mentoring ( Design Thinking cross Ux-Ui)  
 ![Ux-ui-fe4](https://github.com/raazeved/ux-ui-front-end/blob/master/TheGroupOfProcess_UX_Plan_Exec_Test.jpeg)
-Further more info:https://uxmastery.com/resources/techniques/
+Further more info: https://uxmastery.com/resources/techniques/
 
 ## Creative Process Implementation 
 ![Ux-ui-fe5](https://github.com/raazeved/ux-ui-front-end/blob/master/diverge_converge.jpeg)
+Further more info: https://www.zup.com.br/blog/design-thinking
 
 ## Design Implementation 
 "What’s most important to recognize here is that Lean UX is focused strictly on the design phase of the software development process. Whatever your organization’s chosen methodology (waterfall, Agile, etc.), these concepts can be applied to your design tasks."
@@ -40,5 +41,6 @@ Further more info: https://uxdesign.cc/why-ux-and-ui-should-remain-separate-7d6e
 ## Improving Customer Experience (CX) thru Products or Services 
 ![Ux-ui-fe2](https://github.com/raazeved/ux-ui-front-end/blob/master/TheDesignApplied_onUX_vs_UI.jpeg)
 
-## Delivering Customer Experience (CX) by applying the Software or Process improvements 
+## Delivering Customer Experience (CX) by applying WITHIN the Software product or Process improvements 
 ![Ux-ui-fe2](https://github.com/raazeved/ux-ui-front-end/blob/master/prototypes.jpeg)
+
