@@ -44,3 +44,24 @@ Further more info: https://uxdesign.cc/why-ux-and-ui-should-remain-separate-7d6e
 ## Delivering Customer Experience (CX) by applying WITHIN the Software product or Process improvements 
 ![Ux-ui-fe2](https://github.com/raazeved/ux-ui-front-end/blob/master/prototypes.jpeg)
 
+
+# Design Interfaces 
+
+## Flutter UX - UI  
+### login_stateful  - To Design a new Flutter application.
+
+Getting Started - This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+
+For help getting started with Flutter, view our 
+[online documentation](https://flutter.io/docs), which offers tutorials, 
+samples, guidance on mobile development, and a full API reference.
+
+## HTML UX - UI
+
+### Drawning PSD to JPG to HMTL/CSS/JS - To Design a new HTML application.
+![Ux-ui-fe2](https://github.com/raazeved/ux-ui-front-end/blob/master/UX/2EXEC/WEB.jpg)
