@@ -1,11 +1,11 @@
 # Lean UX is an evolution, not a revolution.
 ### Architectures based on UX-UI for Web|Desktop|Mobile
 If you want to build a great house, the person to call is the architect. We all know this, but architecture can be applied not only to traditional buildings but also information space. Similar to buildings, information should be structured with a solid foundation. Understanding the basic principles of good information architecture is essential for any designer who creates products for people.
-![Ux-ui-fe1](https://github.com/raazeved/ux-ui-front-end/blob/master/IMG/Digital_UX_UI_AI.png)
 
+![Ux-ui-fe1](https://github.com/raazeved/ux-ui-front-end/blob/master/IMG/Digital_UX_UI_AI.png)
+Information Architecture comprises only a small a part of a user’s overall experience. UX designers focus on factors that influence users’ behaviour and actions such as emotion and psychology, while the IA experts stay focused on the user’s goals. Image credit: Scorch / scorchagency.com
 
 ### Coding implementation in   HTML/CSS/JS/React|C#|RectNative/Flutter 
-
 ![Ux-ui-fe1](https://github.com/raazeved/ux-ui-front-end/blob/master/IMG/MovingFast.jpeg)
 
 ## Why we are discuss about Customer Experience in UX - UI - FE  whithin Products or Project phases ?
