@@ -1,17 +1,17 @@
 # Lean UX is an evolution, not a revolution.
 ### Architectures based on UX-UI for Web|Desktop|Mobile
 If you want to build a great house, the person to call is the architect. We all know this, but architecture can be applied not only to traditional buildings but also information space. Similar to buildings, information should be structured with a solid foundation. Understanding the basic principles of good information architecture is essential for any designer who creates products for people.
-![Ux-ui-fe1](https://github.com/raazeved/ux-ui-front-end/blob/master/img/Digital_UX_UI_AI.png)
+![Ux-ui-fe1](https://github.com/raazeved/ux-ui-front-end/blob/master/IMG/Digital_UX_UI_AI.png)
 
 
 ### Coding implementation in   HTML/CSS/JS/React|C#|RectNative/Flutter 
 
-![Ux-ui-fe1](https://github.com/raazeved/ux-ui-front-end/blob/master/img/MovingFast.jpeg)
+![Ux-ui-fe1](https://github.com/raazeved/ux-ui-front-end/blob/master/IMG/MovingFast.jpeg)
 
 ## Why we are discuss about Customer Experience in UX - UI - FE  whithin Products or Project phases ?
 Everthing starting thru ideas, with a wish to advance and changing the way of thinking, doing, giving back something or just improving the results, need to thinking what the best experience we would delivering within those ideas? I always think in simples matters.
 
-![Ux-ui-fe2](https://github.com/raazeved/ux-ui-front-end/blob/master/img/expectations.jpeg)
+![Ux-ui-fe2](https://github.com/raazeved/ux-ui-front-end/blob/master/IMG/expectations.jpeg)
 
 Further more info: https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business/
 
@@ -23,11 +23,11 @@ Further more info: https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-
 
 ## Design Process 
 
-![Ux-ui-fe3](https://github.com/raazeved/ux-ui-front-end/blob/master/img/phases_design_thinking.jpeg)
+![Ux-ui-fe3](https://github.com/raazeved/ux-ui-front-end/blob/master/IMG/phases_design_thinking.jpeg)
 Further more info: https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business/
 
 ## Design Mentoring ( Design Thinking cross Ux-Ui)  
-![Ux-ui-fe4](https://github.com/raazeved/ux-ui-front-end/blob/master/img/TheGroupOfProcess_UX_Plan_Exec_Test.jpeg)
+![Ux-ui-fe4](https://github.com/raazeved/ux-ui-front-end/blob/master/IMG/TheGroupOfProcess_UX_Plan_Exec_Test.jpeg)
 Further more info: https://uxmastery.com/resources/techniques/
 
 ## Creative Process Implementation 
@@ -37,16 +37,16 @@ Further more info: https://www.zup.com.br/blog/design-thinking
 ## Design Implementation 
 "What’s most important to recognize here is that Lean UX is focused strictly on the design phase of the software development process. Whatever your organization’s chosen methodology (waterfall, Agile, etc.), these concepts can be applied to your design tasks."
 
-![Ux-ui-fe6](https://github.com/raazeved/ux-ui-front-end/blob/master/img/Diferences_Between_UX_UI.jpeg)
+![Ux-ui-fe6](hhttps://github.com/raazeved/ux-ui-front-end/blob/master/IMG/Diferences_Between_UX_UI.jpeg)
 Further more info: https://uxdesign.cc/why-ux-and-ui-should-remain-separate-7d6e3addb46f
 
 # Deliverables 
 
 ## Improving Customer Experience (CX) thru Products or Services 
-![Ux-ui-fe2](https://github.com/raazeved/ux-ui-front-end/blob/master/img/TheDesignApplied_onUX_vs_UI.jpeg)
+![Ux-ui-fe2](https://github.com/raazeved/ux-ui-front-end/blob/master/IMG/TheDesignApplied_onUX_vs_UI.jpeg)
 
 ## Delivering Customer Experience (CX) by applying WITHIN the Software product or Process improvements 
-![Ux-ui-fe2](https://github.com/raazeved/ux-ui-front-end/blob/master/img/prototypes.jpeg)
+![Ux-ui-fe2](https://github.com/raazeved/ux-ui-front-end/blob/master/IMG/prototypes.jpeg)
 
 
 # Design Interfaces 
