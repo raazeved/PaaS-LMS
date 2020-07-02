@@ -5,7 +5,7 @@ If you want to build a great house, the person to call is the architect. We all 
 ![Ux-ui-fe1](https://github.com/raazeved/ux-ui-front-end/blob/master/IMG/Digital_UX_UI_AI.png)
 Information Architecture comprises only a small a part of a user’s overall experience. UX designers focus on factors that influence users’ behaviour and actions such as emotion and psychology, while the IA experts stay focused on the user’s goals. Image credit: Scorch / scorchagency.com
 
-### Coding implementation in   HTML/CSS/JS/React|C#|RectNative/Flutter 
+### Coding implementation in   HTML/CSS/JS/React|C#|ReactNative/Flutter 
 ![Ux-ui-fe1](https://github.com/raazeved/ux-ui-front-end/blob/master/IMG/MovingFast.jpeg)
 
 ## Why we are discuss about Customer Experience in UX - UI - FE  whithin Products or Project phases ?
